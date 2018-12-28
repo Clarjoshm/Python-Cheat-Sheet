@@ -42,3 +42,15 @@ now = datetime.now()
 print '%02s/%02s/%04s' % (now.month, now.day, now.year) + ' %02s:%02s:%02s' % (now.hour, now.minute, now.second)
 
 -------------------------------------------------------------------------------------------
+
+ASK AND USER RESPOND
+
+name = raw_input("What's your name?")
+print name
+
+original = raw_input("Enter a word:")
+if len(original) > 0:
+  print original
+else:
+  print "Enter a word"
+  
