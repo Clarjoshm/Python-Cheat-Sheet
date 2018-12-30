@@ -9,3 +9,9 @@ print("Its going well.....")
 # Try adding your name to the PRINT STATEMENT with
 # the + operator so that this Python program prints "Hello [your_name]"
 print("Hello "+"Josh, ")
+
+# 4. HANDLING ERRORS
+# We've written two print statements that will raise errors.
+# One has mismatched quotes and the other has no quotes at all.
+print("How do you make a hot dog stand?")
+print("You take away its chair!")
