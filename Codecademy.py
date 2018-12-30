@@ -21,3 +21,13 @@ print("You take away its chair!")
 # a value that will represent today's date to that variable.
 todays_date = 30-12-2018
 print(todays_date)
+
+# 6. ARITHMETIC
+# Multiply two numbers together and assign the result
+# to a variable called product
+product = 500 + 250
+print(product)
+# What is the remainder when 1398 is divided by 11?
+# Save the results in a variable called remainder.
+remainder = 1398 % 11
+print(remainder)
