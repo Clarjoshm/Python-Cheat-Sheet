@@ -31,3 +31,26 @@ print(product)
 # Save the results in a variable called remainder.
 remainder = 1398 % 11
 print(remainder)
+
+# 7. UPDATING VARIABLES
+# We're trying to figure out how much it rained
+# in the past year! Update the annual_rainfall variable to
+# include the values from September to December.
+january_to_june_rainfall = 1.93 + 0.71 + 3.53 + 3.41 + 3.69 + 4.50
+annual_rainfall = january_to_june_rainfall
+
+# Amount of rainfall each month
+july_rainfall = 1.05
+august_rainfall = 4.91
+september_rainfall = 5.16
+october_rainfall = 7.20
+november_rainfall = 5.06
+december_rainfall = 4.06
+
+# Calculation of final rainfall
+annual_rainfall += august_rainfall
+annual_rainfall += july_rainfall
+annual_rainfall += september_rainfall + october_rainfall
+annual_rainfall += november_rainfall + december_rainfall
+
+print(annual_rainfall)
