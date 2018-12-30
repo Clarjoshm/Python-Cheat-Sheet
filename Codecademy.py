@@ -15,3 +15,9 @@ print("Hello "+"Josh, ")
 # One has mismatched quotes and the other has no quotes at all.
 print("How do you make a hot dog stand?")
 print("You take away its chair!")
+
+# 5. VARIABLES
+# Create a variable called todays_date and assign
+# a value that will represent today's date to that variable.
+todays_date = 30-12-2018
+print(todays_date)
