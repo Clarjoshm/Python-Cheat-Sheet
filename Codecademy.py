@@ -61,3 +61,17 @@ print(annual_rainfall)
 city_name = "St. Potatosburg"
 # This shows the population of St. Potatosburg
 city_pop = 340000
+
+# 9. NUMBERS
+
+
+# SIDENOTES
+
+# INTERGER
+# Variables can also hold numeric values.
+# The simplest kind of number in Python is the integer,
+# which is a whole number with no decimal point
+# EXAMPLE
+int1 = 1
+int2 = 10
+int3 = -5
