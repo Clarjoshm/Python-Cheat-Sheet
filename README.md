@@ -3,12 +3,12 @@ Basic Python Inputs
 =======================================================================================
 Commands
 ---------------------------------------------------------------------------------------
-Print                            //Shows words that are typed into consol
+Print                            //Shows words that are typed into console
 =                                //Creates Variable
 +                                //Allows user to combine two words or more commands
 str()                            //Converts non-strings into strings
 %                                //Combines the string with variables
-len()                            //prints legnth of variable put inside the brackets
+len()                            //prints length of variable put inside the brackets
 .upper()                         //Makes everything uppercase
 .lower()                         //Makes everything lowercase 
 
@@ -26,9 +26,9 @@ Greater than or equal to (>=)
 Descriptions
 ----------------------------------------------------------------------------------------
 Variable                         //Can assign an object a name by using an equal sign
-Concatenation                    //Used to combine strongs together using a + sign
+Concatenation                    //Used to combine strings together using a + sign
 Strings                          //A string is a sequence of characters
-Control flow                     //the ability to choose outcomes based on what else is happening in the program.
+Control flow                     //The ability to choose outcomes based on what else is happening in the program.
 
 =========================================================================================
 Examples
