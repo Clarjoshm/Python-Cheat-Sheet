@@ -63,7 +63,15 @@ city_name = "St. Potatosburg"
 city_pop = 340000
 
 # 9. NUMBERS
-
+# You are going shopping.
+# Store the number of cucumbers you want to buy in a variable called cucumbers.
+# The store doesn't sell partial cucumbers.
+cucumbers = 2
+# Next Each cucumber costs 3.25 doubloons.
+price_per_cucumber = 3.25
+# Then Create a new variable called total_cost
+total_cost = cucumbers * price_per_cucumber
+print(total_cost)
 
 # SIDENOTES
 
