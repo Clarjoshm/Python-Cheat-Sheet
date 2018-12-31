@@ -80,7 +80,9 @@ int3 = -5
 # A number with a decimal point is called a float.
 # You can define floats with numbers after the decimal
 # point or by just including a decimal point at the end
+# You can also use a scientific notation,
+# for example e indicates the power of 10
 # EXAMPLE
 float1 = 1.0
 float2 = 10.
-float3 = -5.5
+float3 = -5.5e2
