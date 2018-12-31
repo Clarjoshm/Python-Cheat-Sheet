@@ -54,3 +54,10 @@ annual_rainfall += september_rainfall + october_rainfall
 annual_rainfall += november_rainfall + december_rainfall
 
 print(annual_rainfall)
+
+# 8. COMMENTS
+# Add a comment above the declaration of city_pop
+# with a description of what you think the variable contains.
+city_name = "St. Potatosburg"
+# This shows the population of St. Potatosburg
+city_pop = 340000
