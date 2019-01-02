@@ -114,6 +114,8 @@ float3 = -5.5e2
 #  If we want a string to span multiple lines,
 # we can also use triple quotes:
 # EXAMPLE
-address_string = """136 Whowho Rd
-Apt 7
-Whosville, WZ 44494"""
+"""The following piece of code does the following steps:
+takes in some input
+does An Important Calculation
+returns the modified input and a string that says "Success!" or "Failure..."
+"""
