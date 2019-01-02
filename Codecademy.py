@@ -73,7 +73,21 @@ price_per_cucumber = 3.25
 total_cost = cucumbers * price_per_cucumber
 print(total_cost)
 
+# 10. TWO TYPES OF DIVISION
+# Create a variable cucumbers that holds 100 and num_people that holds 6.
+cucumbers = 100
+num_people = 6
+# Create a variable called whole_cucumbers_per_person that is
+# the integer result of dividing cucumbers by num_people.
 whole_cucumbers_per_person = cucumbers/num_people
+print('%.2f' % (whole_cucumbers_per_person))
+# Create a variable called float_cucumbers_per_person
+# that holds the float result of dividing cucumbers by num_people.
+# Print float_cucumbers_per_person to the console.
+float_cucumbers_per_person = whole_cucumbers_per_person
+
+print('%.2f' % (float_cucumbers_per_person))
+
 # SIDENOTES
 
 # INTERGER
