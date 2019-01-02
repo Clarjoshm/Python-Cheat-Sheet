@@ -88,6 +88,12 @@ float_cucumbers_per_person = whole_cucumbers_per_person
 
 print('%.2f' % (float_cucumbers_per_person))
 
+# 11. MULTI-LINE STRINGS
+# Create a variable called haiku and store this haiku as a multi-line string:
+haiku = """The old pond,
+A frog jumps in:
+Plop!"""
+
 # SIDENOTES
 
 # INTERGER
