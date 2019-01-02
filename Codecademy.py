@@ -109,3 +109,11 @@ int3 = -5
 float1 = 1.0
 float2 = 10.
 float3 = -5.5e2
+
+# MULTI-LINE STRINGS
+#  If we want a string to span multiple lines,
+# we can also use triple quotes:
+# EXAMPLE
+address_string = """136 Whowho Rd
+Apt 7
+Whosville, WZ 44494"""
